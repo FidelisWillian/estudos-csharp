@@ -1,0 +1,14 @@
+C:\Users\Willian Fidelis\Desktop\projetos-csharp\tabuadaWhile\bin\Debug\net9.0\tabuadaWhile.exe
+C:\Users\Willian Fidelis\Desktop\projetos-csharp\tabuadaWhile\bin\Debug\net9.0\tabuadaWhile.deps.json
+C:\Users\Willian Fidelis\Desktop\projetos-csharp\tabuadaWhile\bin\Debug\net9.0\tabuadaWhile.runtimeconfig.json
+C:\Users\Willian Fidelis\Desktop\projetos-csharp\tabuadaWhile\bin\Debug\net9.0\tabuadaWhile.dll
+C:\Users\Willian Fidelis\Desktop\projetos-csharp\tabuadaWhile\bin\Debug\net9.0\tabuadaWhile.pdb
+C:\Users\Willian Fidelis\Desktop\projetos-csharp\tabuadaWhile\obj\Debug\net9.0\tabuadaWhile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Willian Fidelis\Desktop\projetos-csharp\tabuadaWhile\obj\Debug\net9.0\tabuadaWhile.AssemblyInfoInputs.cache
+C:\Users\Willian Fidelis\Desktop\projetos-csharp\tabuadaWhile\obj\Debug\net9.0\tabuadaWhile.AssemblyInfo.cs
+C:\Users\Willian Fidelis\Desktop\projetos-csharp\tabuadaWhile\obj\Debug\net9.0\tabuadaWhile.csproj.CoreCompileInputs.cache
+C:\Users\Willian Fidelis\Desktop\projetos-csharp\tabuadaWhile\obj\Debug\net9.0\tabuadaWhile.dll
+C:\Users\Willian Fidelis\Desktop\projetos-csharp\tabuadaWhile\obj\Debug\net9.0\refint\tabuadaWhile.dll
+C:\Users\Willian Fidelis\Desktop\projetos-csharp\tabuadaWhile\obj\Debug\net9.0\tabuadaWhile.pdb
+C:\Users\Willian Fidelis\Desktop\projetos-csharp\tabuadaWhile\obj\Debug\net9.0\tabuadaWhile.genruntimeconfig.cache
+C:\Users\Willian Fidelis\Desktop\projetos-csharp\tabuadaWhile\obj\Debug\net9.0\ref\tabuadaWhile.dll

@@ -1,0 +1,14 @@
+C:\Users\Willian Fidelis\Desktop\projetos-csharp\listaMeses\obj\Debug\net9.0\listaMeses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Willian Fidelis\Desktop\projetos-csharp\listaMeses\obj\Debug\net9.0\listaMeses.AssemblyInfoInputs.cache
+C:\Users\Willian Fidelis\Desktop\projetos-csharp\listaMeses\obj\Debug\net9.0\listaMeses.AssemblyInfo.cs
+C:\Users\Willian Fidelis\Desktop\projetos-csharp\listaMeses\obj\Debug\net9.0\listaMeses.csproj.CoreCompileInputs.cache
+C:\Users\Willian Fidelis\Desktop\projetos-csharp\listaMeses\bin\Debug\net9.0\listaMeses.exe
+C:\Users\Willian Fidelis\Desktop\projetos-csharp\listaMeses\bin\Debug\net9.0\listaMeses.deps.json
+C:\Users\Willian Fidelis\Desktop\projetos-csharp\listaMeses\bin\Debug\net9.0\listaMeses.runtimeconfig.json
+C:\Users\Willian Fidelis\Desktop\projetos-csharp\listaMeses\bin\Debug\net9.0\listaMeses.dll
+C:\Users\Willian Fidelis\Desktop\projetos-csharp\listaMeses\bin\Debug\net9.0\listaMeses.pdb
+C:\Users\Willian Fidelis\Desktop\projetos-csharp\listaMeses\obj\Debug\net9.0\listaMeses.dll
+C:\Users\Willian Fidelis\Desktop\projetos-csharp\listaMeses\obj\Debug\net9.0\refint\listaMeses.dll
+C:\Users\Willian Fidelis\Desktop\projetos-csharp\listaMeses\obj\Debug\net9.0\listaMeses.pdb
+C:\Users\Willian Fidelis\Desktop\projetos-csharp\listaMeses\obj\Debug\net9.0\listaMeses.genruntimeconfig.cache
+C:\Users\Willian Fidelis\Desktop\projetos-csharp\listaMeses\obj\Debug\net9.0\ref\listaMeses.dll

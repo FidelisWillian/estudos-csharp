@@ -1,0 +1,14 @@
+C:\Users\Willian Fidelis\Desktop\projetos-csharp\menuBasicoConsole\bin\Debug\net9.0\menuBasicoConsole.exe
+C:\Users\Willian Fidelis\Desktop\projetos-csharp\menuBasicoConsole\bin\Debug\net9.0\menuBasicoConsole.deps.json
+C:\Users\Willian Fidelis\Desktop\projetos-csharp\menuBasicoConsole\bin\Debug\net9.0\menuBasicoConsole.runtimeconfig.json
+C:\Users\Willian Fidelis\Desktop\projetos-csharp\menuBasicoConsole\bin\Debug\net9.0\menuBasicoConsole.dll
+C:\Users\Willian Fidelis\Desktop\projetos-csharp\menuBasicoConsole\bin\Debug\net9.0\menuBasicoConsole.pdb
+C:\Users\Willian Fidelis\Desktop\projetos-csharp\menuBasicoConsole\obj\Debug\net9.0\menuBasicoConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Willian Fidelis\Desktop\projetos-csharp\menuBasicoConsole\obj\Debug\net9.0\menuBasicoConsole.AssemblyInfoInputs.cache
+C:\Users\Willian Fidelis\Desktop\projetos-csharp\menuBasicoConsole\obj\Debug\net9.0\menuBasicoConsole.AssemblyInfo.cs
+C:\Users\Willian Fidelis\Desktop\projetos-csharp\menuBasicoConsole\obj\Debug\net9.0\menuBasicoConsole.csproj.CoreCompileInputs.cache
+C:\Users\Willian Fidelis\Desktop\projetos-csharp\menuBasicoConsole\obj\Debug\net9.0\menuBasicoConsole.dll
+C:\Users\Willian Fidelis\Desktop\projetos-csharp\menuBasicoConsole\obj\Debug\net9.0\refint\menuBasicoConsole.dll
+C:\Users\Willian Fidelis\Desktop\projetos-csharp\menuBasicoConsole\obj\Debug\net9.0\menuBasicoConsole.pdb
+C:\Users\Willian Fidelis\Desktop\projetos-csharp\menuBasicoConsole\obj\Debug\net9.0\menuBasicoConsole.genruntimeconfig.cache
+C:\Users\Willian Fidelis\Desktop\projetos-csharp\menuBasicoConsole\obj\Debug\net9.0\ref\menuBasicoConsole.dll

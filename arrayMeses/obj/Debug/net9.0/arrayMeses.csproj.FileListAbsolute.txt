@@ -1,0 +1,14 @@
+C:\Users\Willian Fidelis\Desktop\projetos-csharp\arrayMeses\obj\Debug\net9.0\arrayMeses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Willian Fidelis\Desktop\projetos-csharp\arrayMeses\obj\Debug\net9.0\arrayMeses.AssemblyInfoInputs.cache
+C:\Users\Willian Fidelis\Desktop\projetos-csharp\arrayMeses\obj\Debug\net9.0\arrayMeses.AssemblyInfo.cs
+C:\Users\Willian Fidelis\Desktop\projetos-csharp\arrayMeses\obj\Debug\net9.0\arrayMeses.csproj.CoreCompileInputs.cache
+C:\Users\Willian Fidelis\Desktop\projetos-csharp\arrayMeses\bin\Debug\net9.0\arrayMeses.exe
+C:\Users\Willian Fidelis\Desktop\projetos-csharp\arrayMeses\bin\Debug\net9.0\arrayMeses.deps.json
+C:\Users\Willian Fidelis\Desktop\projetos-csharp\arrayMeses\bin\Debug\net9.0\arrayMeses.runtimeconfig.json
+C:\Users\Willian Fidelis\Desktop\projetos-csharp\arrayMeses\bin\Debug\net9.0\arrayMeses.dll
+C:\Users\Willian Fidelis\Desktop\projetos-csharp\arrayMeses\bin\Debug\net9.0\arrayMeses.pdb
+C:\Users\Willian Fidelis\Desktop\projetos-csharp\arrayMeses\obj\Debug\net9.0\arrayMeses.dll
+C:\Users\Willian Fidelis\Desktop\projetos-csharp\arrayMeses\obj\Debug\net9.0\refint\arrayMeses.dll
+C:\Users\Willian Fidelis\Desktop\projetos-csharp\arrayMeses\obj\Debug\net9.0\arrayMeses.pdb
+C:\Users\Willian Fidelis\Desktop\projetos-csharp\arrayMeses\obj\Debug\net9.0\arrayMeses.genruntimeconfig.cache
+C:\Users\Willian Fidelis\Desktop\projetos-csharp\arrayMeses\obj\Debug\net9.0\ref\arrayMeses.dll
