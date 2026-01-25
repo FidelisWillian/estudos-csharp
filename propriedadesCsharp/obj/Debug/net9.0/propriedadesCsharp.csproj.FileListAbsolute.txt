@@ -1,0 +1,15 @@
+C:\Users\Willian Fidelis\Desktop\projetos-csharp\propriedadesCsharp\obj\Debug\net9.0\propriedadesCsharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Willian Fidelis\Desktop\projetos-csharp\propriedadesCsharp\obj\Debug\net9.0\propriedadesCsharp.AssemblyInfoInputs.cache
+C:\Users\Willian Fidelis\Desktop\projetos-csharp\propriedadesCsharp\obj\Debug\net9.0\propriedadesCsharp.AssemblyInfo.cs
+C:\Users\Willian Fidelis\Desktop\projetos-csharp\propriedadesCsharp\obj\Debug\net9.0\propriedadesCsharp.csproj.CoreCompileInputs.cache
+C:\Users\Willian Fidelis\Desktop\projetos-csharp\propriedadesCsharp\obj\Debug\net9.0\propriedadesCsharp.sourcelink.json
+C:\Users\Willian Fidelis\Desktop\projetos-csharp\propriedadesCsharp\bin\Debug\net9.0\propriedadesCsharp.exe
+C:\Users\Willian Fidelis\Desktop\projetos-csharp\propriedadesCsharp\bin\Debug\net9.0\propriedadesCsharp.deps.json
+C:\Users\Willian Fidelis\Desktop\projetos-csharp\propriedadesCsharp\bin\Debug\net9.0\propriedadesCsharp.runtimeconfig.json
+C:\Users\Willian Fidelis\Desktop\projetos-csharp\propriedadesCsharp\bin\Debug\net9.0\propriedadesCsharp.dll
+C:\Users\Willian Fidelis\Desktop\projetos-csharp\propriedadesCsharp\bin\Debug\net9.0\propriedadesCsharp.pdb
+C:\Users\Willian Fidelis\Desktop\projetos-csharp\propriedadesCsharp\obj\Debug\net9.0\propriedadesCsharp.dll
+C:\Users\Willian Fidelis\Desktop\projetos-csharp\propriedadesCsharp\obj\Debug\net9.0\refint\propriedadesCsharp.dll
+C:\Users\Willian Fidelis\Desktop\projetos-csharp\propriedadesCsharp\obj\Debug\net9.0\propriedadesCsharp.pdb
+C:\Users\Willian Fidelis\Desktop\projetos-csharp\propriedadesCsharp\obj\Debug\net9.0\propriedadesCsharp.genruntimeconfig.cache
+C:\Users\Willian Fidelis\Desktop\projetos-csharp\propriedadesCsharp\obj\Debug\net9.0\ref\propriedadesCsharp.dll
