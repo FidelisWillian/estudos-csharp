@@ -24,6 +24,10 @@ namespace propriedadesCsharp.models
                 _nome = value;
             }
         }
+
+        public string sobrenome { get; set; }
+
+        public string nomeCompleto => $"{nome} {sobrenome}".ToUpper();
         
         public int idade
         {
@@ -41,7 +45,7 @@ namespace propriedadesCsharp.models
 
         public void Apresentar()
         {
-            System.Console.WriteLine($"Nome: {nome}, Idade: {idade}!");
+            System.Console.WriteLine($"Nome: {nomeCompleto}, Idade: {idade}!");
         }
     }
 }
