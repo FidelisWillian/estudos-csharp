@@ -1,0 +1,15 @@
+C:\Users\Willian Fidelis\Desktop\projetos-csharp\metodosCsharp\bin\Debug\net9.0\metodosCsharp.exe
+C:\Users\Willian Fidelis\Desktop\projetos-csharp\metodosCsharp\bin\Debug\net9.0\metodosCsharp.deps.json
+C:\Users\Willian Fidelis\Desktop\projetos-csharp\metodosCsharp\bin\Debug\net9.0\metodosCsharp.runtimeconfig.json
+C:\Users\Willian Fidelis\Desktop\projetos-csharp\metodosCsharp\bin\Debug\net9.0\metodosCsharp.dll
+C:\Users\Willian Fidelis\Desktop\projetos-csharp\metodosCsharp\bin\Debug\net9.0\metodosCsharp.pdb
+C:\Users\Willian Fidelis\Desktop\projetos-csharp\metodosCsharp\obj\Debug\net9.0\metodosCsharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Willian Fidelis\Desktop\projetos-csharp\metodosCsharp\obj\Debug\net9.0\metodosCsharp.AssemblyInfoInputs.cache
+C:\Users\Willian Fidelis\Desktop\projetos-csharp\metodosCsharp\obj\Debug\net9.0\metodosCsharp.AssemblyInfo.cs
+C:\Users\Willian Fidelis\Desktop\projetos-csharp\metodosCsharp\obj\Debug\net9.0\metodosCsharp.csproj.CoreCompileInputs.cache
+C:\Users\Willian Fidelis\Desktop\projetos-csharp\metodosCsharp\obj\Debug\net9.0\metodosCsharp.sourcelink.json
+C:\Users\Willian Fidelis\Desktop\projetos-csharp\metodosCsharp\obj\Debug\net9.0\metodosCsharp.dll
+C:\Users\Willian Fidelis\Desktop\projetos-csharp\metodosCsharp\obj\Debug\net9.0\refint\metodosCsharp.dll
+C:\Users\Willian Fidelis\Desktop\projetos-csharp\metodosCsharp\obj\Debug\net9.0\metodosCsharp.pdb
+C:\Users\Willian Fidelis\Desktop\projetos-csharp\metodosCsharp\obj\Debug\net9.0\metodosCsharp.genruntimeconfig.cache
+C:\Users\Willian Fidelis\Desktop\projetos-csharp\metodosCsharp\obj\Debug\net9.0\ref\metodosCsharp.dll
