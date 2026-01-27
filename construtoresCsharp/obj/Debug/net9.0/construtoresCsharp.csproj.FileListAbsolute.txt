@@ -1,0 +1,15 @@
+C:\Users\Willian Fidelis\Desktop\projetos-csharp\construtoresCsharp\bin\Debug\net9.0\construtoresCsharp.exe
+C:\Users\Willian Fidelis\Desktop\projetos-csharp\construtoresCsharp\bin\Debug\net9.0\construtoresCsharp.deps.json
+C:\Users\Willian Fidelis\Desktop\projetos-csharp\construtoresCsharp\bin\Debug\net9.0\construtoresCsharp.runtimeconfig.json
+C:\Users\Willian Fidelis\Desktop\projetos-csharp\construtoresCsharp\bin\Debug\net9.0\construtoresCsharp.dll
+C:\Users\Willian Fidelis\Desktop\projetos-csharp\construtoresCsharp\bin\Debug\net9.0\construtoresCsharp.pdb
+C:\Users\Willian Fidelis\Desktop\projetos-csharp\construtoresCsharp\obj\Debug\net9.0\construtoresCsharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Willian Fidelis\Desktop\projetos-csharp\construtoresCsharp\obj\Debug\net9.0\construtoresCsharp.AssemblyInfoInputs.cache
+C:\Users\Willian Fidelis\Desktop\projetos-csharp\construtoresCsharp\obj\Debug\net9.0\construtoresCsharp.AssemblyInfo.cs
+C:\Users\Willian Fidelis\Desktop\projetos-csharp\construtoresCsharp\obj\Debug\net9.0\construtoresCsharp.csproj.CoreCompileInputs.cache
+C:\Users\Willian Fidelis\Desktop\projetos-csharp\construtoresCsharp\obj\Debug\net9.0\construtoresCsharp.sourcelink.json
+C:\Users\Willian Fidelis\Desktop\projetos-csharp\construtoresCsharp\obj\Debug\net9.0\construtoresCsharp.dll
+C:\Users\Willian Fidelis\Desktop\projetos-csharp\construtoresCsharp\obj\Debug\net9.0\refint\construtoresCsharp.dll
+C:\Users\Willian Fidelis\Desktop\projetos-csharp\construtoresCsharp\obj\Debug\net9.0\construtoresCsharp.pdb
+C:\Users\Willian Fidelis\Desktop\projetos-csharp\construtoresCsharp\obj\Debug\net9.0\construtoresCsharp.genruntimeconfig.cache
+C:\Users\Willian Fidelis\Desktop\projetos-csharp\construtoresCsharp\obj\Debug\net9.0\ref\construtoresCsharp.dll
