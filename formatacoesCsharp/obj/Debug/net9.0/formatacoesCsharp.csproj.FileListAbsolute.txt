@@ -1,0 +1,15 @@
+C:\Users\Willian Fidelis\Desktop\projetos-csharp\formatacoesCsharp\bin\Debug\net9.0\formatacoesCsharp.exe
+C:\Users\Willian Fidelis\Desktop\projetos-csharp\formatacoesCsharp\bin\Debug\net9.0\formatacoesCsharp.deps.json
+C:\Users\Willian Fidelis\Desktop\projetos-csharp\formatacoesCsharp\bin\Debug\net9.0\formatacoesCsharp.runtimeconfig.json
+C:\Users\Willian Fidelis\Desktop\projetos-csharp\formatacoesCsharp\bin\Debug\net9.0\formatacoesCsharp.dll
+C:\Users\Willian Fidelis\Desktop\projetos-csharp\formatacoesCsharp\bin\Debug\net9.0\formatacoesCsharp.pdb
+C:\Users\Willian Fidelis\Desktop\projetos-csharp\formatacoesCsharp\obj\Debug\net9.0\formatacoesCsharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Willian Fidelis\Desktop\projetos-csharp\formatacoesCsharp\obj\Debug\net9.0\formatacoesCsharp.AssemblyInfoInputs.cache
+C:\Users\Willian Fidelis\Desktop\projetos-csharp\formatacoesCsharp\obj\Debug\net9.0\formatacoesCsharp.AssemblyInfo.cs
+C:\Users\Willian Fidelis\Desktop\projetos-csharp\formatacoesCsharp\obj\Debug\net9.0\formatacoesCsharp.csproj.CoreCompileInputs.cache
+C:\Users\Willian Fidelis\Desktop\projetos-csharp\formatacoesCsharp\obj\Debug\net9.0\formatacoesCsharp.sourcelink.json
+C:\Users\Willian Fidelis\Desktop\projetos-csharp\formatacoesCsharp\obj\Debug\net9.0\formatacoesCsharp.dll
+C:\Users\Willian Fidelis\Desktop\projetos-csharp\formatacoesCsharp\obj\Debug\net9.0\refint\formatacoesCsharp.dll
+C:\Users\Willian Fidelis\Desktop\projetos-csharp\formatacoesCsharp\obj\Debug\net9.0\formatacoesCsharp.pdb
+C:\Users\Willian Fidelis\Desktop\projetos-csharp\formatacoesCsharp\obj\Debug\net9.0\formatacoesCsharp.genruntimeconfig.cache
+C:\Users\Willian Fidelis\Desktop\projetos-csharp\formatacoesCsharp\obj\Debug\net9.0\ref\formatacoesCsharp.dll
