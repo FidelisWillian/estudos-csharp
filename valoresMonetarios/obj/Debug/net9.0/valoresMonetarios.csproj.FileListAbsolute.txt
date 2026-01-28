@@ -1,0 +1,15 @@
+C:\Users\Willian Fidelis\Desktop\projetos-csharp\valoresMonetarios\bin\Debug\net9.0\valoresMonetarios.exe
+C:\Users\Willian Fidelis\Desktop\projetos-csharp\valoresMonetarios\bin\Debug\net9.0\valoresMonetarios.deps.json
+C:\Users\Willian Fidelis\Desktop\projetos-csharp\valoresMonetarios\bin\Debug\net9.0\valoresMonetarios.runtimeconfig.json
+C:\Users\Willian Fidelis\Desktop\projetos-csharp\valoresMonetarios\bin\Debug\net9.0\valoresMonetarios.dll
+C:\Users\Willian Fidelis\Desktop\projetos-csharp\valoresMonetarios\bin\Debug\net9.0\valoresMonetarios.pdb
+C:\Users\Willian Fidelis\Desktop\projetos-csharp\valoresMonetarios\obj\Debug\net9.0\valoresMonetarios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Willian Fidelis\Desktop\projetos-csharp\valoresMonetarios\obj\Debug\net9.0\valoresMonetarios.AssemblyInfoInputs.cache
+C:\Users\Willian Fidelis\Desktop\projetos-csharp\valoresMonetarios\obj\Debug\net9.0\valoresMonetarios.AssemblyInfo.cs
+C:\Users\Willian Fidelis\Desktop\projetos-csharp\valoresMonetarios\obj\Debug\net9.0\valoresMonetarios.csproj.CoreCompileInputs.cache
+C:\Users\Willian Fidelis\Desktop\projetos-csharp\valoresMonetarios\obj\Debug\net9.0\valoresMonetarios.sourcelink.json
+C:\Users\Willian Fidelis\Desktop\projetos-csharp\valoresMonetarios\obj\Debug\net9.0\valoresMonetarios.dll
+C:\Users\Willian Fidelis\Desktop\projetos-csharp\valoresMonetarios\obj\Debug\net9.0\refint\valoresMonetarios.dll
+C:\Users\Willian Fidelis\Desktop\projetos-csharp\valoresMonetarios\obj\Debug\net9.0\valoresMonetarios.pdb
+C:\Users\Willian Fidelis\Desktop\projetos-csharp\valoresMonetarios\obj\Debug\net9.0\valoresMonetarios.genruntimeconfig.cache
+C:\Users\Willian Fidelis\Desktop\projetos-csharp\valoresMonetarios\obj\Debug\net9.0\ref\valoresMonetarios.dll
