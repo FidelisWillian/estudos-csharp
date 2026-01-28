@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("valoresMonetarios")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b9a64fa77a7f0e6f6a61ec468ae4c473bd72e95c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+077e4be4a79e2aa75c63762c9aa7cb645fa948ac")]
 [assembly: System.Reflection.AssemblyProductAttribute("valoresMonetarios")]
 [assembly: System.Reflection.AssemblyTitleAttribute("valoresMonetarios")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
